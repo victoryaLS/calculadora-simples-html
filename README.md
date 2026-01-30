@@ -1,7 +1,5 @@
 # calculadora-simples-html
 todo programador tem que ter sua calculadora KKKK
-🧮 Calculadora JS
-
 Calculadora desenvolvida com HTML, CSS e JavaScript puro, focada em boas práticas e funcionalidades reais de um projeto de portfólio.
 
 🚀 Funcionalidades
